@@ -5,8 +5,6 @@ description: This resource contains lecture slides on shipper perspective ? stra
 file: /courses/esd-260j-logistics-systems-fall-2006/80e2e998f1048e857b995376b03c8a13_lect23.pdf
 file_size: 371702
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -4,8 +4,6 @@ description: This resource contains a team assignment.
 file: /courses/esd-260j-logistics-systems-fall-2006/c91347f869f68e1383e5f6930aed5e22_team1.pdf
 file_size: 49101
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

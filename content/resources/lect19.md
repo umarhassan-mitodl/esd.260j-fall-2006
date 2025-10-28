@@ -4,8 +4,6 @@ description: This resource contains lecture slides on auctions in supply chain m
 file: /courses/esd-260j-logistics-systems-fall-2006/35cfa9a74d8d35e741547966979f90bc_lect19.pdf
 file_size: 201437
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

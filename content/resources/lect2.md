@@ -5,8 +5,6 @@ description: This resource contains lecture slides on supply chain fundamentals 
 file: /courses/esd-260j-logistics-systems-fall-2006/2454b7afcf6daeaba05aeb81e8b3e671_lect2.pdf
 file_size: 305123
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

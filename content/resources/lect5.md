@@ -5,8 +5,6 @@ description: This resource contains lecture slides on demand forecasting and new
 file: /courses/esd-260j-logistics-systems-fall-2006/0be27a467617b4a83c6ba512933d7e5d_lect5.pdf
 file_size: 173433
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

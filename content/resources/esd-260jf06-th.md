@@ -4,8 +4,6 @@ description: New image Upload
 file: /courses/esd-260j-logistics-systems-fall-2006/b0dc80cd03023bcc119c85beef257031_esd-260jf06-th.jpg
 file_size: 9990
 file_type: image/jpeg
-hide_download: true
-hide_download_original: null
 image_metadata:
   caption: 'The Ses #25 lecture on Transportation Management discusses various arrangements
     for shipping from five origins to five destinations. In this case, there are regional

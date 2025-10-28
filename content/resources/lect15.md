@@ -5,8 +5,6 @@ description: This resource contains lecture slides on inventory management and M
 file: /courses/esd-260j-logistics-systems-fall-2006/9aadb1db3146f51a86c244f570d6dcfe_lect15.pdf
 file_size: 1669125
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

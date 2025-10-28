@@ -4,8 +4,6 @@ description: This resource contains a problem set.
 file: /courses/esd-260j-logistics-systems-fall-2006/2a8e95ad429bd21b329bb204816dd89c_assn1.pdf
 file_size: 44980
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

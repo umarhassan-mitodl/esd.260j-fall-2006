@@ -5,8 +5,6 @@ description: This resource contains lecture slides on demand forecasting and cau
 file: /courses/esd-260j-logistics-systems-fall-2006/f2396de71c17e2d45d69aa506eda27ce_lect4.pdf
 file_size: 276757
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
